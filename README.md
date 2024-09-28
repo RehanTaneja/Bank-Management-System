@@ -1,4 +1,4 @@
-BANKING SYSTEM PROJECT
+#BANKING SYSTEM PROJECT
 Description: This project simulates a basic banking system. It provides functionalities such as depositing, withdrawing money as well as checking balance and bank details. This project is written in Java and uses OOPS.
 Features:
 1) Deposit 
