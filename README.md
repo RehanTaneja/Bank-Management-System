@@ -24,4 +24,4 @@ git clone https://github.com/RehanTaneja/Bank-Management-System.git
    * **Check Balance** - to see current balance
    * **View Transaction History** - a list of previous deposits and withdrawals
 ## License
-This project is licensed under the MIT Licence - see the [LICENSE.txt][(./LICENSE.txt) file for details
+This project is licensed under the MIT Licence - see the [LICENSE][(LICENSE.txt) file for details
